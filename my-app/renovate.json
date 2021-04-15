@@ -11,10 +11,10 @@
       "automerge": true
     }
   ],
-  "timezone": "Europe/Madrid",
+  "timezone": "America/Chicago",
   "schedule": [
-    "after 10pm every weekday",
-    "before 5am every weekday",
+    "after 7am every weekday",
+    "before 5pm every weekday",
     "every weekend"
   ]
 }
